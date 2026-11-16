@@ -8,6 +8,7 @@
 
 **Construyo soluciones digitales para personas, organizaciones y negocios.**
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_mi_web-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inglopez.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-LopezJ25-181717?style=for-the-badge&logo=github)](https://github.com/LopezJ25)
 [![Proyecto web](https://img.shields.io/badge/Frases_of_the_Kingdom-Ver_sitio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://frasesofthekingdom.netlify.app/)
 
@@ -17,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas**, interesado en el desarrollo de aplicaciones web, sistemas de gestión y bases de datos. Aprendo construyendo proyectos académicos y soluciones prácticas, con especial atención a interfaces claras, organización del código y utilidad para las personas.
+Soy estudiante de **Ingeniería en Sistemas**, interesado en el desarrollo de aplicaciones web y de escritorio con C#, sistemas de gestión y bases de datos. Aprendo construyendo proyectos académicos y soluciones prácticas, con especial atención a interfaces claras, organización del código y utilidad para las personas.
 
 - 🌱 Continúo desarrollando mis habilidades en **React, Laravel, C# y SQL**.
 - 🧩 Me interesan los sistemas de ventas, inventario, automatización y aplicaciones web.
@@ -49,10 +50,14 @@ Soy estudiante de **Ingeniería en Sistemas**, interesado en el desarrollo de ap
 | **Sistema Ferretería** | Sistema de escritorio en C# y SQL Server con módulos de ventas, inventario y compras. | Repositorio privado |
 | **Frases of the Kingdom** | Proyecto de contenido digital con presencia web. | [Sitio web](https://frasesofthekingdom.netlify.app/) |
 
+### 🌐 Portafolio personal
+
+Mi portafolio ya está publicado: **[inglopez.netlify.app](https://inglopez.netlify.app/)**. Allí presento mis proyectos, habilidades y trayectoria de aprendizaje.
+
 ### 🔨 En desarrollo
 
 - **ProSol Energy Solar:** sitio web corporativo con catálogo y solicitudes de cotización.
-- **Portafolio personal:** presentación de proyectos, habilidades y experiencia de aprendizaje.
+
 
 ## 🎯 Objetivos profesionales
 
@@ -64,7 +69,7 @@ Seguir creciendo como desarrollador, fortalecer mis conocimientos en **desarroll
 
 ### 📫 Conecta conmigo
 
-[**GitHub**](https://github.com/LopezJ25) · [**Frases of the Kingdom**](https://frasesofthekingdom.netlify.app/)
+[**Portafolio**](https://inglopez.netlify.app/) · [**GitHub**](https://github.com/LopezJ25) · [**Frases of the Kingdom**](https://frasesofthekingdom.netlify.app/)
 
 *Gracias por visitar mi perfil. Aquí comparto lo que construyo y lo que sigo aprendiendo.*
 
