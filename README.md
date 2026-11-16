@@ -9,7 +9,7 @@ Me interesa crear soluciones tecnológicas útiles para personas, organizaciones
 - **Frontend:** HTML, CSS, JavaScript y React
 - **Backend:** PHP, Laravel y C#
 - **Programación:** Java y C#
-- **Bases de datos:** MySQL, MariaDB y SQL Server
+- **Bases de datos:** MySQL, MariaDB y SQL Server; conocimientos básicos de MongoDB (en aprendizaje)
 - **Herramientas:** Git, GitHub, GitHub Desktop y Visual Studio Code
 
 ### 🚀 Proyectos
