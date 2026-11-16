@@ -48,6 +48,7 @@ Estudiante de **Ingeniería en Sistemas**, con interés en el desarrollo de apli
 | **Aplicación móvil de cuotas** | Proyecto orientado a explorar soluciones de gestión. | [Repositorio](https://github.com/LopezJ25/App-movil-cuota) |
 | **Sistema Ferretería** | Sistema de escritorio en C# y SQL Server con módulos de ventas, inventario y compras. | Repositorio privado |
 | **Frases of the Kingdom** | Proyecto de contenido digital con presencia web. | [Sitio web](https://frasesofthekingdom.netlify.app/) |
+| **Portafolio personal** | Sitio web desarrollado para presentar mis habilidades, proyectos y perfil profesional. | [Visitar portafolio](https://inglopez.netlify.app/) |
 
 ### 🌐 Portafolio personal
 
