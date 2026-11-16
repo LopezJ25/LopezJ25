@@ -20,8 +20,12 @@
 
 Estudiante de **Ingeniería en Sistemas**, con interés en el desarrollo de aplicaciones web y de escritorio, especialmente con C#, así como en sistemas de gestión y bases de datos. Mi formación se complementa con proyectos académicos y soluciones prácticas, priorizando interfaces intuitivas, código organizado y aplicaciones útiles para las personas y las organizaciones.
 
-- 🧩 Me interesan los sistemas de ventas, inventario, automatización y aplicaciones web.
-- 🤝 Busco oportunidades para aprender, colaborar y aportar en equipos de tecnología.
+
+Continúo desarrollando mis habilidades en **React, Laravel, C# y SQL**.
+
+Me interesan los sistemas de ventas, inventario, automatización y aplicaciones web.
+
+Busco oportunidades para aprender, colaborar y aportar en equipos de tecnología.
 
 ## 🛠️ Tecnologías y herramientas
 
